@@ -1,4 +1,5 @@
 ## Hi there 👋
+프로그래밍 고수가 되고 싶은 평볌한 컴공 재학생입니다
 
 <!--
 **dream2405/dream2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
